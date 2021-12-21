@@ -67,6 +67,7 @@
         </div>
 
         <br>
+        <a href="viewrecords.php" name="submit" class="btn btn-default">Back to list</a>
         <button type="submit" name="submit" class="btn btn-success">Save changes</button>
     </form>
 
