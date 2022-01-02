@@ -23,8 +23,7 @@
         <div class="navbar-nav">
           <a class="nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
           <a class="nav-link" href="viewrecords.php">View Attendees</a>
-          <a class="nav-link" href="#">Pricing</a>
-          <a class="nav-link disabled">Disabled</a>
+          
         </div>
       </div>
 </nav>
