@@ -1,8 +1,14 @@
 <?php 
-    $host='localhost'; //'127.0.0.1' works too
-    $db='attendance_db';
-    $user= 'root';
-    $pass= '';
+    //$host='localhost'; //'127.0.0.1' works too
+    //$db='attendance_db';
+    //$user= 'root';
+    //$pass= '';
+    //$charset= 'utf8mb4';
+
+    $host='remotemysql.com'; 
+    $db='f5g0nNWIu2';
+    $user= 'f5g0nNWIu2';
+    $pass= 'Cf5g0nNWIu2';
     $charset= 'utf8mb4';
 
     $dsn="mysql:host=$host; dbname=$db; charset=$charset";
